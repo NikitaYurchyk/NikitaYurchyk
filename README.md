@@ -3,7 +3,7 @@
 
 
 
-<div style="display: flex; gap: 2px; align-items: center;">
+<!-- <div style="display: flex; gap: 2px; align-items: center;">
   <h3><b>💻 Languges & Tools</b></h3>
 
   <img src="https://iconic-api.onrender.com/dark/python" width="36px"/>
@@ -21,8 +21,13 @@
   <img src="https://iconic-api.onrender.com/dark/rabbitmq" width="36px"/>
   <img src="https://iconic-api.onrender.com/dark/kafka" width="36px"/>
 
-</div>
-
+</div> -->
+<div align="left">
+  <h3><b>💻 Languges & Tools</b></h3>
+<div align="left">
+<p>
+  <img src="https://skillicons.dev/icons?i=python,go,rust,java,typescript,react,docker,bash,kubernetes,aws,terraform,jenkins,rabbitmq,kafka&theme=dark" />
+</p>
 
 
 

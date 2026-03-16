@@ -7,9 +7,13 @@
   <img src="https://iconic-api.onrender.com/dark/go" width="36px"/>
   <img src="https://iconic-api.onrender.com/dark/rust" width="36px"/>
   <img src="https://iconic-api.onrender.com/dark/java" width="36px"/>  
+  <img src="https://iconic-api.onrender.com/dark/typescript" width="36px"/>  
+  <img src="https://iconic-api.onrender.com/dark/react" width="36px"/>  
   <img src="https://iconic-api.onrender.com/dark/docker" width="36px"/>
   <img src="https://iconic-api.onrender.com/dark/bash" width="36px"/>
   <img src="https://iconic-api.onrender.com/dark/kubernetes" width="36px"/>
+  <img src="https://iconic-api.onrender.com/dark/aws" width="36px"/>
+
 </div>
 
 

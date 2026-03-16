@@ -21,6 +21,6 @@
 <div align="left">
   <h3><b>👀 Visitor Count</b></h3>
 </div>
-<img src="https://count.getloli.com/@NikitaYurchyk?name=NikitaYurchyk&theme=green&darkmode=1">
+<img src="https://count.getloli.com/@NikitaYurchyk?name=NikitaYurchyk&theme=green&darkmode=2">
 
 

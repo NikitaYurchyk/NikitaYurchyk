@@ -10,7 +10,7 @@
   <h3><b>💻 Languges & Tools</b></h3>
 <div align="left">
 <p>
-  <img src="https://skillicons.dev/icons?i=python,go,rust,java,typescript,react,nextjs,docker,bash,kubernetes,aws,terraform,jenkins,rabbitmq,kafka&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,go,rust,java,typescript,react,nextjs,docker,bash,kubernetes,aws,terraform,jenkins,rabbitmq,kafka,langchain,langgraph&theme=dark" />
 </p>
 
 

@@ -28,13 +28,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--><img src="https://iconic-api.onrender.com/dark/java" width="64px" />
 
 <div style="display: flex; gap: 2px; align-items: center;">
   <img src="https://iconic-api.onrender.com/dark/python" width="50px" title="python (Dark)" />
-  <img src="https://iconic-api.onrender.com/dark/go" width="50px" title="go (Dark)" />
+  <img src="https://iconic-api.onrender.com/dark/go" width="50px" title="Golan (Dark)" />
   <img src="https://iconic-api.onrender.com/dark/rust" width="50px" title="rust (Dark)" />
-  <img src="https://iconic-api.onrender.com/dark/java" width="50px" title="java (Dark)" />
+  <img src="https://iconic-api.onrender.com/dark/java" width="32px"/>  
   <img src="https://iconic-api.onrender.com/dark/docker" width="50px" title="Docker (Dark)" />
   <img src="https://iconic-api.onrender.com/dark/bash" width="50px" title="Bash (Dark)" />
   <img src="https://iconic-api.onrender.com/dark/kubernetes" width="50px" title="Kubernetes (Dark)" />

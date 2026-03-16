@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <div style="display: flex; gap: 2px; align-items: center;">
   <img src="https://iconic-api.onrender.com/dark/python" width="50px" title="python (Dark)" />
-  <img src="https://iconic-api.onrender.com/dark/golang" width="50px" title="golang (Dark)" />
+  <img src="https://iconic-api.onrender.com/dark/go" width="50px" title="go (Dark)" />
   <img src="https://iconic-api.onrender.com/dark/rust" width="50px" title="rust (Dark)" />
   <img src="https://iconic-api.onrender.com/dark/java" width="50px" title="java (Dark)" />
   <img src="https://iconic-api.onrender.com/dark/docker" width="50px" title="Docker (Dark)" />

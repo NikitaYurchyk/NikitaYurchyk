@@ -31,4 +31,4 @@
 
 <h3>👀 Visitor Count</h3>
 
-<img src="https://count.getloli.com/@NikitaYurchyk?name=NikitaYurchyk&theme=green&darkmode=1" height="64" />
+<img src="https://count.getloli.com/@NikitaYurchyk?name=NikitaYurchyk&theme=green&darkmode=1" height="256px" />

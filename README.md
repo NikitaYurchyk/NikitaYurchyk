@@ -35,5 +35,4 @@
 </p>
 
 <h3>👀 Visitor Count</h3>
-
 <img src="https://count.getloli.com/@NikitaYurchyk?name=NikitaYurchyk&theme=green&darkmode=1" height="80px" />

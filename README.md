@@ -3,6 +3,8 @@
 
 
 <div style="display: flex; gap: 2px; align-items: center;">
+  <h3><b>Languges & Tools</b></h3>
+
   <img src="https://iconic-api.onrender.com/dark/python" width="36px"/>
   <img src="https://iconic-api.onrender.com/dark/go" width="36px"/>
   <img src="https://iconic-api.onrender.com/dark/rust" width="36px"/>
@@ -24,6 +26,6 @@
 
 
 <div align="left">
-  <h2><b>👀 Visitor Count</b></h2>
+  <h3><b>👀 Visitor Count</b></h3>
 </div>
 <img src="https://count.getloli.com/@NikitaYurchyk?name=NikitaYurchyk&theme=green&darkmode=1">

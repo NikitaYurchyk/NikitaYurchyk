@@ -2,10 +2,11 @@
 
 <h3>🙋‍♂️ About Me</h3>
 
-- 🎓 CS Bachelor's from Vrije Universiteit Amsterdam
 - 💻 Working as Backend Engineer
 - 🔧 Interested in Backend, DevOps & AI Engineering
 - 🦀 Currently learning Rust
+- 🎓 CS Bachelor's from Vrije Universiteit Amsterdam
+
 
 <h3>📊 GitHub Stats</h3>
 

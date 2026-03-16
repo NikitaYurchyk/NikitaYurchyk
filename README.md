@@ -2,6 +2,7 @@
 
 
 
+
 <div style="display: flex; gap: 2px; align-items: center;">
   <h3><b>Languges & Tools</b></h3>
 
@@ -31,4 +32,3 @@
 <img src="https://count.getloli.com/@NikitaYurchyk?name=NikitaYurchyk&theme=green&darkmode=1">
 
 
-<img src="https://your-project-name.vercel.app/api/meme" width="350px"/>

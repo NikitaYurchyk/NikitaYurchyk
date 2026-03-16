@@ -15,7 +15,8 @@
   <img src="https://iconic-api.onrender.com/dark/bash" width="36px"/>
   <img src="https://iconic-api.onrender.com/dark/kubernetes" width="36px"/>
   <img src="https://iconic-api.onrender.com/dark/aws" width="36px"/>
-
+  <img src="https://iconic-api.onrender.com/dark/terraform" width="36px"/>
+  <img src="https://iconic-api.onrender.com/dark/jenkins" width="36px"/>
 </div>
 
 

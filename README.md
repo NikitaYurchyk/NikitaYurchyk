@@ -1,32 +1,16 @@
-## Hi there 👋
+## Hi, I'm Nikita 👋
 
 
+- 🎓 CS Bachelor's from Vrije Universiteit Amsterdam
+- 🔧 Interested in Backend, DevOps & AI Engineering
+- 🦀 Currently learning Rust
 
 
-<!-- <div style="display: flex; gap: 2px; align-items: center;">
-  <h3><b>💻 Languges & Tools</b></h3>
-
-  <img src="https://iconic-api.onrender.com/dark/python" width="36px"/>
-  <img src="https://iconic-api.onrender.com/dark/go" width="36px"/>
-  <img src="https://iconic-api.onrender.com/dark/rust" width="36px"/>
-  <img src="https://iconic-api.onrender.com/dark/java" width="36px"/>  
-  <img src="https://iconic-api.onrender.com/dark/typescript" width="36px"/>  
-  <img src="https://iconic-api.onrender.com/dark/react" width="36px"/>  
-  <img src="https://iconic-api.onrender.com/dark/docker" width="36px"/>
-  <img src="https://iconic-api.onrender.com/dark/bash" width="36px"/>
-  <img src="https://iconic-api.onrender.com/dark/kubernetes" width="36px"/>
-  <img src="https://iconic-api.onrender.com/dark/aws" width="36px"/>
-  <img src="https://iconic-api.onrender.com/dark/terraform" width="36px"/>
-  <img src="https://iconic-api.onrender.com/dark/jenkins" width="36px"/>
-  <img src="https://iconic-api.onrender.com/dark/rabbitmq" width="36px"/>
-  <img src="https://iconic-api.onrender.com/dark/kafka" width="36px"/>
-
-</div> -->
 <div align="left">
   <h3><b>💻 Languges & Tools</b></h3>
 <div align="left">
 <p>
-  <img src="https://skillicons.dev/icons?i=python,go,rust,java,typescript,react,docker,bash,kubernetes,aws,terraform,jenkins,rabbitmq,kafka&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,go,rust,java,typescript,react,nextjs,docker,bash,kubernetes,aws,terraform,jenkins,rabbitmq,kafka&theme=dark" />
 </p>
 
 

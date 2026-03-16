@@ -9,7 +9,7 @@
 
 <h3>📊 GitHub Stats</h3>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaYurchyk&layout=pie&theme=dark&hide_border=true&hide=c%2B%2B" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaYurchyk&layout=pie&theme=dark&hide_border=true&hide=c%2B%2B,c" />
 
 
 <h3>💻 Languages & Tools</h3>

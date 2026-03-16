@@ -4,7 +4,7 @@
 
 
 <div style="display: flex; gap: 2px; align-items: center;">
-  <h3><b>Languges & Tools</b></h3>
+  <h3><b>💻 Languges & Tools</b></h3>
 
   <img src="https://iconic-api.onrender.com/dark/python" width="36px"/>
   <img src="https://iconic-api.onrender.com/dark/go" width="36px"/>
@@ -18,6 +18,9 @@
   <img src="https://iconic-api.onrender.com/dark/aws" width="36px"/>
   <img src="https://iconic-api.onrender.com/dark/terraform" width="36px"/>
   <img src="https://iconic-api.onrender.com/dark/jenkins" width="36px"/>
+  <img src="https://iconic-api.onrender.com/dark/rabbitmq" width="36px"/>
+  <img src="https://iconic-api.onrender.com/dark/kafka" width="36px"/>
+
 </div>
 
 

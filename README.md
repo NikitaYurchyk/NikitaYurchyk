@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=your-username&color=blue)
 
 <div align="left">
   <h2><b>👀 Visitor Count</b></h2>

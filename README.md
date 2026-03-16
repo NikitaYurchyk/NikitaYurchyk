@@ -15,3 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://komarev.com/ghpvc/?username=your-username&color=blue)
+
+<div align="left">
+  <h2><b>👀 Visitor Count</b></h2>
+</div>
+<a href="https://github.com/sponsors/NikitaYurchyk/">
+<img src="https://count.getloli.com/@Hunterdii?name=NikitaYurchyk&theme=green&darkmode=1">
